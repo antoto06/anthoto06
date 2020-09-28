@@ -1,0 +1,4 @@
+#bin!/bin/bash
+git add anthoto06/
+git commit -m"test"
+git push -u origin master
